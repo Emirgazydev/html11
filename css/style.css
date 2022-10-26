@@ -42,7 +42,7 @@ body{
     color: #FFFFFF;
 }
 #hero{
-    background: #030d1f;
+    background: rgba(17, 183, 122, 0.94);
 }
 .hero{
     display: flex;
